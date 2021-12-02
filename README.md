@@ -1,11 +1,6 @@
 # Electron Fiddle + p5js
 
-半透明なアプリをつくるものです。
-
-macOSで動作確認していますが、Windowsでもほぼ同じように動作すると思います。
-
-![スクリーンショット 2021-12-01 15.06.06.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/668579/5a99dfd6-9282-7d4a-1b4c-7d6d2ee9c112.png)
-
+半透明なアプリをつくるものです。macOSで動作確認していますが、Windowsでもほぼ同じように動作すると思います。
 
 ---
 
