@@ -1,0 +1,12 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+html, body {
+  margin: 0;
+  padding: 0;
+  -webkit-app-region: drag;
+}
+
+canvas {
+  display: block;
+}
